@@ -1,0 +1,6 @@
+{
+  "name": "CreditWise Analytics",
+  "description": "Dark-mode machine learning credit scoring dashboard featuring switchable Decision Tree and Logistic Regression classifiers, interactive trend analysis charts, and IEEE conference paper export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
